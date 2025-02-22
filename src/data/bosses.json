@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "name": "Olho de Cthulhu",
+      "description": "Um boss que aparece à noite.",
+      "image": "https://example.com/olho-de-cthulhu.png"
+    },
+    {
+      "id": 2,
+      "name": "Esqueleto Prime",
+      "description": "Uma versão mecânica do Esqueleto.",
+      "image": "https://example.com/esqueleto-prime.png"
+    }
+  ]
