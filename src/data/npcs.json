@@ -2,11 +2,41 @@
     {
         "id": 1,
         "name": "Guia",
-        "description": "O Guia fornece dicas úteis para iniciantes."
-    },
-    {
-        "id": 2,
-        "name": "sem",
-        "description": "Vende itens básicos como tochas e poções."
-    }
-]
+        "image": "Guide.png",
+        "biome": "Floresta",
+        "loves": ["Ninguém"],
+        "likes": ["Clothier.png", "Zoologist.png"],
+        "dislikes": ["Corrupção"],
+        "hates": ["Crimson"]
+      },
+      {
+        "id": 1,
+        "name": "Zoologista",
+        "image": "Zoologist.png",
+        "biome": "Floresta",
+        "loves": ["Ninguém"],
+        "likes": ["Clothier.png", "Zoologist.png"],
+        "dislikes": ["Corrupção"],
+        "hates": ["Crimson"]
+      },
+      {
+        "id": 1,
+        "name": "Golfista",
+        "image": "Golfer.png",
+        "biome": "Floresta",
+        "loves": ["Ninguém"],
+        "likes": ["Clothier.png", "Zoologist.png"],
+        "dislikes": ["Corrupção"],
+        "hates": ["Crimson"]
+      },
+      {
+        "id": 1,
+        "name": "Comerciante",
+        "image": "Guide.png",
+        "biome": "Floresta",
+        "loves": ["Ninguém"],
+        "likes": ["Clothier.png", "Zoologist.png"],
+        "dislikes": ["Corrupção"],
+        "hates": ["Crimson"]
+      }
+  ]
