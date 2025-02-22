@@ -1,0 +1,4 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+git add . && git commit -m 'Auto-commit: Atualização do site'
